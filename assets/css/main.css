@@ -2118,11 +2118,13 @@ nav h2{
 
 
 .cnt-btn{
-   background: #0090b6;
+ background: #0090b6;
   border-radius: 5em;
-  font-size: 20px;
+  letter-spacing: 2px;
+  font-size: 15px;
   padding: 10px 30px 10px 30px;
   text-decoration: none;
+  font-family: Lato, sans-serif;
   transition: transform .3s ease-in-out;
   text-align: center;
 }
